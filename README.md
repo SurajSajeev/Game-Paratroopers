@@ -24,6 +24,6 @@
 Some Preview from the game:
 
 ![Image 1](Image%201.PNG?raw=true "Start")
-![Image 2](Image%202.PNG?raw=true "Middle 1")
-![Image 3](Image%203.PNG?raw=true "Middle 2")
-![Image 4](Image%204.PNG?raw=true "End")
+![Image 2](Image%202.png?raw=true "Middle 1")
+![Image 3](Image%203.png?raw=true "Middle 2")
+![Image 4](Image%204.png?raw=true "End")
