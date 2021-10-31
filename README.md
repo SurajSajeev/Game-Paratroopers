@@ -20,3 +20,10 @@
 >Standalone applications are pre built. So, just run the *gameCOP701.exe* from Executable for windows.
 
 >To view the Source code just install Unity3D and Open the source files.
+
+Some Preview from the game:
+
+![Alt text](image1.jpg?raw=true "Start")
+![Alt text](image2.jpg?raw=true "Middle 1")
+![Alt text](image3.jpg?raw=true "Middle 2")
+![Alt text](image1.jpg?raw=true "End")
