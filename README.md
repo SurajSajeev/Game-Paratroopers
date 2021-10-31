@@ -23,7 +23,7 @@
 
 Some Preview from the game:
 
-![Alt text](image1.jpg?raw=true "Start")
-![Alt text](image2.jpg?raw=true "Middle 1")
-![Alt text](image3.jpg?raw=true "Middle 2")
-![Alt text](image1.jpg?raw=true "End")
+![Image 1](Image1.png?raw=true "Start")
+![Image 2](Image2.png?raw=true "Middle 1")
+![Image 3](Image3.png?raw=true "Middle 2")
+![Image 4](Image4.png?raw=true "End")
